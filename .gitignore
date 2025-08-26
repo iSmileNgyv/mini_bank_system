@@ -1,0 +1,24 @@
+**/bin/
+**/obj/
+**/*.dll
+**/*.exe
+**/*.pdb
+
+# IDE files
+.vs/
+.vscode/
+.idea/
+**/*.suo
+**/*.user
+
+# NuGet packages
+**/packages/
+**/*.nupkg
+
+# Logs
+**/*.log
+**/*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
